@@ -1,0 +1,6 @@
+{
+  "name": "Internet des Objets (IoT) — Guide & Simulateurs",
+  "description": "Portail interactif et encyclopédique sur l'Internet des Objets : architecture, protocoles, cloud/edge, cas d'usage industriels, défis et simulateurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
